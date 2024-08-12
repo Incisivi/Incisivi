@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Incisivi 
-- 👀 I’m interested in ... Phyton, SQL, 
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Kotlin, Swift, SQL, Mobile Developement
+- 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me incisivi@posteo.de
 
 <!---
 Incisivi/Incisivi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
